@@ -1,0 +1,7 @@
+﻿.vite
+node_modules
+localhost.pem
+localhost-key.pem
+vite.config.js
+package-lock.json
+package.json
